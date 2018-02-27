@@ -4,6 +4,7 @@
     <e p="C:\Users\dave\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_3_Project_Boost.-417109107.00" t="ExcludeRecursive" />
     <e p="C:\Users\dave\Dropbox\Programming\Unity 2.0\3_Project_Boost" t="IncludeRecursive">
       <e p="3_Project_Boost.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="ConsolePro" t="Include">
@@ -32,6 +33,13 @@
               <e p="ReliableChannel.cs" t="Include" />
               <e p="SequencedChannel.cs" t="Include" />
               <e p="SimpleChannel.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
             </e>
           </e>
         </e>
