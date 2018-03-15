@@ -36,6 +36,7 @@
             </e>
           </e>
         </e>
+        <e p="Oscillator.cs" t="Include" />
         <e p="Plugins" t="Include">
           <e p="Editor" t="Include">
             <e p="JetBrains" t="Include">
